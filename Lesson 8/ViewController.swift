@@ -9,9 +9,9 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var lable: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
-     print("Hello World!")
     }
 
 
