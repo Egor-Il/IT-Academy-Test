@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var lable: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("BMW")
         print("AUDI")
     }
 
